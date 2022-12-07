@@ -1,6 +1,7 @@
 # CIMCO
-Any tools for CIMCO A/S Software (mostly CIMCO Edit)
-https://www.cimco.com/wp-content/uploads/2016/06/header-cimco-logo.png
+Any tools for CIMCO A/S Software (mostly CIMCO Edit) 
+
+![cimco logo](header-cimco-logo.png "cimco logo")
 
 ## CIMCO Translate (CTranslate)
 provides a convenient way to edit existing language strings and create your own translations for *CIMCO Software* (in particular *CIMCO Edit*). First of all for the CIS countries (Russian, Ukrainian, Belarusian, Georgian, Armenian...).
