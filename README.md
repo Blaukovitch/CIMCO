@@ -1,5 +1,6 @@
 # CIMCO
 Any tools for CIMCO A/S Software (mostly CIMCO Edit)
+https://www.cimco.com/wp-content/uploads/2016/06/header-cimco-logo.png
 
 ## CIMCO Translate (CTranslate)
 provides a convenient way to edit existing language strings and create your own translations for *CIMCO Software* (in particular *CIMCO Edit*). First of all for the CIS countries (Russian, Ukrainian, Belarusian, Georgian, Armenian...).
@@ -18,7 +19,7 @@ The two currently known CIMCO message file formats are supported:
 NOTE: If you were able to make a quality translation into your language for CIMCO programs with **CTranslate** - please put *bin/XMLZ* file of translation for public use.
 
 
-## CIMCO cracks
+## CIMCO crack
 >WARNING: we strongly recommend to buy this C++ program CIMCO Software (with good optimization) for its further development!!!  
 
 **[Support by CRACKLAB](https://cracklab.team/index.php?threads/880/post-8777)**  
