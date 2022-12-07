@@ -20,7 +20,7 @@ The two currently known CIMCO message file formats are supported:
 NOTE: If you were able to make a quality translation into your language for CIMCO programs with **CTranslate** - please put *bin/XMLZ* file of translation for public use.
 
 
-## CIMCO crack
+# CIMCO Edit crack / CIMCO Edit 2022 crack / CIMCO Edit 8 crack
 >WARNING: we strongly recommend to buy this C++ program CIMCO Software (with good optimization) for its further development!!!  
 
 **[Support by CRACKLAB](https://cracklab.team/index.php?threads/880/post-8777)**  
