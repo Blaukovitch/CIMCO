@@ -12,9 +12,9 @@ All current versions are supported:
 `CIMCO 2022`
 
 
-The two currently known CIMCO message file formats are supported:
-* **bin** - basic binary format for translation
-* **XMLZ** - encoded zipped XML format (secondary)
+The two currently known CIMCO message file formats are supported:  
+* **bin** - basic binary format for translation  
+* **XMLZ** - encoded zipped XML format (secondary)  
 
 ### Ready translate releases
 NOTE: If you were able to make a quality translation into your language for CIMCO programs with **CTranslate** - please put *bin/XMLZ* file of translation for public use.
